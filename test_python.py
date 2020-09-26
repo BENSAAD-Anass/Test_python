@@ -1,0 +1,5 @@
+print("Quel est votre prénom ?")
+prenom=input()
+print("Quel est votre nom ?")
+nom=input()
+print("Bonjour " +prenom +" "+ nom + " !")
